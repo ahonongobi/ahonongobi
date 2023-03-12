@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a pradobye project
 - 🌱 I’m currently learning JAVA EE and  🤣
 - 👯 I’m looking to collaborate with other
-- 🥅 2022 Goals: Study and contribute to Opensource projects
+- 🥅 2023 Goals: Study and contribute to Opensource projects
 - ⚡ Fun fact: I love to travel
   
 ## Connect with me
