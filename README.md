@@ -126,7 +126,7 @@ Here are some ideas to get you started:
 - Developed an automatic detection system for stolen electrical objects and Conversational Agents based on GPT, DALL-E, and gTTS.
 
 ## 2021 - 2022: Application Developer at MASTERCARD
-- Secured a one-year internship at MASTERCARD FOUNDATION after winning a web and mobile application development competition for the dissemination of professional opportunities for students in Benin.
+- Secured a one-year internship at MASTERCARD FOUNDATION after winning a web and mobile application development competition for the dissemination of professional opportunities for students in Benin [Proof](https://drive.google.com/file/d/1P4fwFvUxUoyQWTJXjfoDmbXKkjqVYOg5/view?usp=sharing).
 - Designed and developed a web and mobile platform for the dissemination of professional opportunities at the University of Abomey-Calavi, which can be found at [jobs.uac.bj](https://jobs.uac.bj).
 - Conducted unit and functional testing of the system developed for student registrations at uac.bj.
 
