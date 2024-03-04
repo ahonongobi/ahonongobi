@@ -135,6 +135,15 @@ Here are some ideas to get you started:
 - Developed management software for desktop imaging and image processing using C-Sharp.
 
 
+# Projects
+
+| Name          | Description                                                                                                                        |
+|---------------|------------------------------------------------------------------------------------------------------------------------------------|
+| Job platform  | Created a web and mobile app using Laravel, NodeJS, and Docker to connect students in Benin with scholarships and internships. As a full-stack developer, I built and implemented features including user authentication, search functionality, and external API integration. App has helped over 2000 students find educational opportunities. <br> Repository: [GitHub](https://github.com/ahonongobi/uac.jobs) |
+| Crowdfunding | Created a PHP-based web app that enables francophone African users to create and share fundraising campaigns, including user authentication, donation tracking, and social sharing features. I'm glad to have helped over 100 people in these countries find funding for their needs through the app. **Role:** Lead Developer <br> Repository: [GitHub](https://github.com/ahonongobi/getfundact) |
+| E-health      | Developed a web-based telemedicine software for CHU France using Laravel and JavaScript. The software has been used by over 5000 patients through the [cloud-respidom.com](https://cloud-respidom.com) platform. **Role:** Full-stack Developer <br> Repository: [GitHub](https://github.com/ahonongobi/administration-medecins) |   
+| Search engine and social network | As part of my bachelor's thesis, I developed a communication application based on IP telephony and WebRTC using PHP, MySQL, HTML, CSS, Nodejs, ExpressJS, WebSockets, and JavaScript. My solution is currently being deployed at my school, IFRI-Uac, where I completed my bachelor's degree. The project is open source and available on my GitHub [here](https://github.com/ahonongobi/thesis). |
+| MultichatRoom | Created a multi-user chat system using Java Remote Procedure Call mechanism (RMI) similar to Internet Relay Chatroom (IRC). Users can connect to discussion rooms, exchange messages, and create new rooms. Implemented features include: <br> - Registering and unregistering users <br> - Propagation of messages <br> - Support for multiple chat rooms <br> - Fault tolerance mechanism for handling client crashes <br> - Support for RMI on multiple hosts <br> - Direct communication between clients in a peer-to-peer manner for enhanced confidentiality. <br> Repository: [GitHub]([https://github.com/ahonongobi/Operatings_systeme_1](https://github.com/ahonongobi/Operatings_systeme_1)) |
 
 
 
