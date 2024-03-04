@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 - <kbd style="border-radius: 20px; background-color: #f0f0f0; padding: 5px 10px; margin-right: 10px; font-size: 14px;">Laravel</kbd> <kbd style="border-radius: 20px; background-color: #f0f0f0; padding: 5px 10px; margin-right: 10px; font-size: 14px;">Reactjs</kbd> <kbd style="border-radius: 20px; background-color: #f0f0f0; padding: 5px 10px; margin-right: 10px; font-size: 14px;">NodeJS & ExpressJs</kbd> <kbd style="border-radius: 20px; background-color: #f0f0f0; padding: 5px 10px; margin-right: 10px; font-size: 14px;">Qt</kbd> <kbd style="border-radius: 20px; background-color: #f0f0f0; padding: 5px 10px; margin-right: 10px; font-size: 14px;">Flutter</kbd>
 
 ## Tools and Platforms
-- <kbd style="border-radius: 20px; background-color: #f0f0f0; padding: 5px 10px; margin-right: 10px; font-size: 14px;">ML: Scikit-Learn, Pandas, NumPy, JupyterLab</kbd>
+- <kbd style="border-radius: 20px; background-color: #f0f0f0; padding: 5px 10px; margin-right: 10px; font-size: 14px;">ML: Scikit-Learn, Pandas, NumPy, JupyterLab, DataSpell</kbd>
 - <kbd style="border-radius: 20px; background-color: #f0f0f0; padding: 5px 10px; margin-right: 10px; font-size: 14px;">Version Control: Git</kbd>
 - <kbd style="border-radius: 20px; background-color: #f0f0f0; padding: 5px 10px; margin-right: 10px; font-size: 14px;">Databases: PostgreSQL, MySQL, SQLite, Oracle, SQL Server</kbd>
 - <kbd style="border-radius: 20px; background-color: #f0f0f0; padding: 5px 10px; margin-right: 10px; font-size: 14px;">Cloud: AWS</kbd>
