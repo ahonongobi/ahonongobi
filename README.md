@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 21/02/2022
--->
+
 
 - 🔭 I’m currently working on a pradobye project
 - 🌱 I’m currently learning JAVA EE and  🤣
@@ -63,6 +63,80 @@ Here are some ideas to get you started:
 <img align="left" alt="linux" src="https://camo.githubusercontent.com/878e15b4f7576e844856dc60d855ba0587d3d2bc56211fbe69734ebccb13b068/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d4643433632343f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b" />
 
 <img align="left" alt="firebase" src="https://camo.githubusercontent.com/a65fcdf7030d79c00f4c3d8bab84de39107f5777fca4d12f0cb64440015183fe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f66697265626173652d2532333033394245352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6669726562617365" />
+
+-->
+
+
+# Skills
+
+# Skills
+
+## Programming Languages
+- <kbd style="border-radius: 20px; background-color: #f0f0f0; padding: 5px 10px; margin-right: 10px; font-size: 50px;">PHP</kbd> <kbd style="border-radius: 20px; background-color: #f0f0f0; padding: 5px 10px; margin-right: 10px; font-size: 14px;">Python</kbd> <kbd style="border-radius: 20px; background-color: #f0f0f0; padding: 5px 10px; margin-right: 10px; font-size: 14px;">C++</kbd> <kbd style="border-radius: 20px; background-color: #f0f0f0; padding: 5px 10px; margin-right: 10px; font-size: 14px;">JavaScript</kbd> <kbd style="border-radius: 20px; background-color: #f0f0f0; padding: 5px 10px; margin-right: 10px; font-size: 14px;">SQL</kbd> <kbd style="border-radius: 20px; background-color: #f0f0f0; padding: 5px 10px; margin-right: 10px; font-size: 14px;">Bash</kbd> <kbd style="border-radius: 20px; background-color: #f0f0f0; padding: 5px 10px; margin-right: 10px; font-size: 14px;">JAVA</kbd> <kbd style="border-radius: 20px; background-color: #f0f0f0; padding: 5px 10px; margin-right: 10px; font-size: 14px;">XML</kbd>
+
+## Framework
+- <kbd style="border-radius: 20px; background-color: #f0f0f0; padding: 5px 10px; margin-right: 10px; font-size: 14px;">Laravel</kbd> <kbd style="border-radius: 20px; background-color: #f0f0f0; padding: 5px 10px; margin-right: 10px; font-size: 14px;">Reactjs</kbd> <kbd style="border-radius: 20px; background-color: #f0f0f0; padding: 5px 10px; margin-right: 10px; font-size: 14px;">NodeJS & ExpressJs</kbd> <kbd style="border-radius: 20px; background-color: #f0f0f0; padding: 5px 10px; margin-right: 10px; font-size: 14px;">Qt</kbd> <kbd style="border-radius: 20px; background-color: #f0f0f0; padding: 5px 10px; margin-right: 10px; font-size: 14px;">Flutter</kbd>
+
+## Tools and Platforms
+- <kbd style="border-radius: 20px; background-color: #f0f0f0; padding: 5px 10px; margin-right: 10px; font-size: 14px;">ML: Scikit-Learn, Pandas, NumPy, JupyterLab</kbd>
+- <kbd style="border-radius: 20px; background-color: #f0f0f0; padding: 5px 10px; margin-right: 10px; font-size: 14px;">Version Control: Git</kbd>
+- <kbd style="border-radius: 20px; background-color: #f0f0f0; padding: 5px 10px; margin-right: 10px; font-size: 14px;">Databases: PostgreSQL, MySQL, SQLite, Oracle, SQL Server</kbd>
+- <kbd style="border-radius: 20px; background-color: #f0f0f0; padding: 5px 10px; margin-right: 10px; font-size: 14px;">Cloud: AWS</kbd>
+- <kbd style="border-radius: 20px; background-color: #f0f0f0; padding: 5px 10px; margin-right: 10px; font-size: 14px;">Operating Systems: Linux, Windows</kbd>
+- <kbd style="border-radius: 20px; background-color: #f0f0f0; padding: 5px 10px; margin-right: 10px; font-size: 14px;">CMS: Wordpress, Moodle</kbd>
+- <kbd style="border-radius: 20px; background-color: #f0f0f0; padding: 5px 10px; margin-right: 10px; font-size: 14px;">Other: Docker, LaTeX, Arduino, Ethical Hacking</kbd>
+
+## Soft skills
+- <kbd style="border-radius: 20px; background-color: #f0f0f0; padding: 5px 10px; margin-right: 10px; font-size: 14px;">Teamwork</kbd> <kbd style="border-radius: 20px; background-color: #f0f0f0; padding: 5px 10px; margin-right: 10px; font-size: 14px;">Problem-solving</kbd> <kbd style="border-radius: 20px; background-color: #f0f0f0; padding: 5px 10px; margin-right: 10px; font-size: 14px;">Time management</kbd> <kbd style="border-radius: 20px; background-color: #f0f0f0; padding: 5px 10px; margin-right: 10px; font-size: 14px;">Event management</kbd> <kbd style="border-radius: 20px; background-color: #f0f0f0; padding: 5px 10px; margin-right: 10px; font-size: 14px;">Public speaking</kbd> <kbd style="border-radius: 20px; background-color: #f0f0f0; padding: 5px 10px; margin-right: 10px; font-size: 14px;">Multitasking</kbd> <kbd style="border-radius: 20px; background-color: #f0f0f0; padding: 5px 10px; margin-right: 10px; font-size: 14px;">Organization</kbd> <kbd style="border-radius: 20px; background-color: #f0f0f0; padding: 5px 10px; margin-right: 10px; font-size: 14px;">Teaching (mathematics, hacking, and Linux commands)</kbd>
+
+## DevOps Learning Journey - CI/CD
+- [Check out my GitLab Repository to explore my DevOps knowledge.](https://gitlab.com/ahonongobi/contnious-integration)
+
+
+
+
+<!--
+## Programming Languages
+- PHP, Python, C++, JavaScript, SQL, Bash, JAVA, XML
+
+## Framework
+- Laravel, Reactjs, NodeJS & ExpressJs, Qt, Flutter
+
+## Tools and Platforms
+- ML: Scikit-Learn, Pandas, NumPy, JupyterLab
+- Version Control: Git
+- Databases: PostgreSQL, MySQL, SQLite, Oracle, SQL Server
+- Cloud: AWS
+- Operating Systems: Linux, Windows
+- CMS: Wordpress, Moodle
+- Other: Docker, LaTeX, Arduino, Ethical Hacking
+
+## Soft skills
+- Teamwork, problem-solving, time management, event management, public speaking, multitasking, organization, teaching (mathematics, hacking, and Linux commands).
+
+## DevOps Learning Journey - CI/CD
+- [Check out my GitLab Repository to explore my DevOps knowledge.](https://gitlab.com/ahonongobi/contnious-integration)
+
+  -->
+
+# Professional Background
+
+## 2022 - Present: Contracted CTO, Software and Machine Learning Developer at INTELLIGENCIA SI
+- Designed web and mobile platforms for online learning, e-commerce, product showcasing and delivery apps using Flutter and REST API. [Take a look here](https://flipbookpdf.net/web/site/6420d4c9c52616eff9ced6cd6c982a9a283ef8c1202402.pdf.html).
+- Directed IT projects, including the design and implementation of HTTPS websites for [eliostrategy.com](https://eliostrategy.com), [cvscan.uk/fr](https://cvscan.uk/fr), and a government project at [aplahoue-tourisme.com](https://aplahoue-tourisme.com).
+- Configured remote servers to store, manage, and process data.
+- Developed an automatic detection system for stolen electrical objects and Conversational Agents based on GPT, DALL-E, and gTTS.
+
+## 2021 - 2022: Application Developer at MASTERCARD
+- Secured a one-year internship at MASTERCARD FOUNDATION after winning a web and mobile application development competition for the dissemination of professional opportunities for students in Benin.
+- Designed and developed a web and mobile platform for the dissemination of professional opportunities at the University of Abomey-Calavi, which can be found at [jobs.uac.bj](https://jobs.uac.bj).
+- Conducted unit and functional testing of the system developed for student registrations at uac.bj.
+
+## 2020 - 2023: Full-stack Web and Mobile Developer at LEMES TECHNOLOGY
+- Designed web and mobile platforms for e-learning, e-commerce, and product showcasing such as [Al-Tech Transport](https://flipbookpdf.net/web/site/6420d4c9c52616eff9ced6cd6c982a9a283ef8c1202402.pdf.html), carpooling application and car sales.
+- Developed management software for desktop imaging and image processing using C-Sharp.
+
+
 
 
 
