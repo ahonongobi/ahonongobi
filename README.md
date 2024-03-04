@@ -69,8 +69,6 @@ Here are some ideas to get you started:
 
 # Skills
 
-# Skills
-
 ## Programming Languages
 - <kbd style="border-radius: 20px; background-color: #f0f0f0; padding: 5px 10px; margin-right: 10px; font-size: 50px;">PHP</kbd> <kbd style="border-radius: 20px; background-color: #f0f0f0; padding: 5px 10px; margin-right: 10px; font-size: 14px;">Python</kbd> <kbd style="border-radius: 20px; background-color: #f0f0f0; padding: 5px 10px; margin-right: 10px; font-size: 14px;">C++</kbd> <kbd style="border-radius: 20px; background-color: #f0f0f0; padding: 5px 10px; margin-right: 10px; font-size: 14px;">JavaScript</kbd> <kbd style="border-radius: 20px; background-color: #f0f0f0; padding: 5px 10px; margin-right: 10px; font-size: 14px;">SQL</kbd> <kbd style="border-radius: 20px; background-color: #f0f0f0; padding: 5px 10px; margin-right: 10px; font-size: 14px;">Bash</kbd> <kbd style="border-radius: 20px; background-color: #f0f0f0; padding: 5px 10px; margin-right: 10px; font-size: 14px;">JAVA</kbd> <kbd style="border-radius: 20px; background-color: #f0f0f0; padding: 5px 10px; margin-right: 10px; font-size: 14px;">XML</kbd>
 
